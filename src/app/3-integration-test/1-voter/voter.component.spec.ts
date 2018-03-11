@@ -3,7 +3,12 @@ import { DebugElement } from '@angular/core';
 import { By } from '@angular/platform-browser';
 
 import { VoterComponent } from './voter.component';
-
+/**
+ * Testing Property and class bindings - testing event events binding
+ * test a getter
+ * test presence of a class on an element
+ * fake a click
+ */
 describe('VoterComponent', () => {
 
   let fixture;
